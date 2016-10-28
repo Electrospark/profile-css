@@ -67,4 +67,7 @@
     a :hover {
         background-color: #cccccc;
         color: #ffffff;
-    }  
+    } 
+    #kitten {
+	float: center;
+    }
