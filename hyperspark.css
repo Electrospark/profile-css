@@ -65,8 +65,9 @@
     #accounts {
        width: 480px;
        height: 380px;
-       background-color: #606060;
+       color: #606060;
        border-radius: 20px;
+       border: solid #606060;
     }
     a {
         text-decoration: none;
