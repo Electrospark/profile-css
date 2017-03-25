@@ -65,9 +65,8 @@
     #accounts {
         width: 680px;
         height: 50px;
-        border:3px solid #606060;
-        border-radius: 0px 0px 10px 0px;
-        margin: -8px 0px 0px -8px;
+        border:6px solid #606060;
+        border-radius: 20px;
         background-color: #606060;             
     }
     a {
