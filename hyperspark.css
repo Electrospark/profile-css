@@ -65,29 +65,27 @@
         background-color: #ffffff;   
         border-radius: 10px;       
     } 
-    .account_links {
-        border: 2px solid #ffffff !important;
-    }        
-      a {
-        color: #aaaaaa;     
-    }
-      a :hover {
-        background-color: #cccccc;
-        color: #ffffff;
-        border-radius: 1px;
-        font-size: 30px;        
-    } 
     #accounts {
         width: 400px;
         height: 54px;
+        margin-top: 20px;
         border: 6px solid #aaaaaa;
         border-radius: 1px;
-        background-color: #aaaaaa;          
+        background-color: #aaaaaa;  
     } 
     .account_links {
+        border: 2px solid #ffffff !important;
         border-radius: 15%;
+    }        
+    a {
+        color: #aaaaaa;     
     }
-
+    a :hover {
+        background-color: #cccccc;
+        color: #ffffff;
+        border-radius: 1px;
+        font-size: 30px;             
+    } 
     #kitten {
 	float: right;
     margin-top: -400px;
