@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+   <head>
+       <meta charset="utf-8">
+       <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet"> 
+       <link href="https://Electrospark.github.io/profile-css/hyperspark.css" type="text/css" rel="stylesheet">       
+   </head>
+   <body>
+       <p id="content-text">
+           My interests are electronics engineering, making 
+           <br>
+           electronic music and I'm also slowly learning computer
+           <br>
+           programming (I code this profile all by myself!)
+           <br>
+           Also, I'm a bit of an audiophile and I listen to a ton of music.
+       </p>
+   </body>
+</html>
