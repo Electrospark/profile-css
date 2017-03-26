@@ -2,7 +2,7 @@
         color: #ffffff;
     }
     body {
-	    background-image: url('#')!important;
+	background-image: url('#')!important;
         background-color: #ffffff !important; 
         background-position: top-center!important;
     }
@@ -37,7 +37,7 @@
         margin: 0px 0px 0px 0px;
     }
     a {
-        text-decoration: none;
+        text-decoration: none !important;
     }
     #content-frame {
         border: none;
@@ -48,6 +48,7 @@
     #tabs-box {
         width: 680px;
         height: 50px;
+	margin-top: 40px;    
         border: 3px solid #dddddd;
         border-radius: 1px;
         background-color: #dddddd;             
@@ -77,13 +78,13 @@
         border-radius: 15%;
     }        
     a {
-        color: #aaaaaa;     
+        color: #aaaaaa !important;     
     }
     a :hover {
-        background-color: #cccccc;
-        color: #ffffff;
-        border-radius: 1px;
-        font-size: 30px;             
+        background-color: #cccccc !important;
+        color: #ffffff !important;
+        border-radius: 1px !important;
+        font-size: 30px !important;             
     } 
     #kitten {
 	float: right;
