@@ -43,36 +43,36 @@
         border-radius: 4px; 
     }
     #tabs-box {
-        width: 680px !important;
-        height: 50px !important;
-	margin-top: 40px !important;    
-        border: 3px solid #dddddd !important;
-        border-radius: 1px !important;
-        background-color: #dddddd !important;             
+        width: 680px;
+        height: 50px;
+	margin-top: 40px;    
+        border: 3px solid #dddddd;
+        border-radius: 1px;
+        background-color: #dddddd;             
     }
     .buttons {
-        border: solid #dddddd !important;
-        width: 130px !important;
-        height: 40px !important;  
-        float: left !important; 
-        text-align: center !important;
-        font-family: 'Amatic SC' !important;
-        font-size: 28px !important; 
-        padding-top: 3px !important; 
-        background-color: #ffffff !important;   
-        border-radius: 10% !important;       
+        border: solid #dddddd;
+        width: 130px;
+        height: 40px;  
+        float: left; 
+        text-align: center;
+        font-family: 'Amatic SC';
+        font-size: 28px; 
+        padding-top: 3px; 
+        background-color: #ffffff;   
+        border-radius: 10px;       
     } 
     #accounts {
-        width: 400px !important;
-        height: 54px !important;
-        margin-top: 35px !important;
-        border: 6px solid #aaaaaa !important;
-        border-radius: 1px !important;
-        background-color: #aaaaaa !important;  
+        width: 400px;
+        height: 54px;
+        margin-top: 35px;
+        border: 6px solid #aaaaaa;
+        border-radius: 1px;
+        background-color: #aaaaaa;  
     } 
     .account_links {
-        border: 2px solid #ffffff !important;
-        border-radius: 15% !important;
+        border: 2px solid #ffffff;
+        border-radius: 15%;
     }        
     a {
         color: #aaaaaa !important;
