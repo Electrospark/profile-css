@@ -4,10 +4,15 @@
                 color:#e6e6fa;
                 float: left;
                 margin-left: 0px;
-
             } 
             #profile-image{
                 float:right;
-                margin-bottom: 0px;
-               
-            }               
+                margin-bottom: 0px;  
+            } 
+            #bottom-box{
+            overflow: hidden;
+            background-color: #000000;
+            bottom: 0;
+            width: 100%;
+            height:100px;
+        }
